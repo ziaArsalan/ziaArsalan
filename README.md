@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0a7ea4&height=220&section=header&text=Zia%20Arsalan&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0a7ea4&height=220&section=header&text=Apps%20Automation%20LoyaltySystems&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 >👋 Hi, I'm Zia Arsalan!</h1>
 
 **`Tech Man`**
+
 I'm a software engineer, and founder at [Devtronics](https://devtronics.co).
 
 <p align="left">
@@ -40,9 +41,9 @@ I'm a software engineer, and founder at [Devtronics](https://devtronics.co).
   <img src="https://gifdb.com/images/high/coding-boy-animation-7yt6dscj60ukjpeg.gif" width="400" alt="coding-boy-animation" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
-</p>
+</p> -->
 
 ## 🔹 **About Me**
 
