@@ -2,13 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0a7ea4&height=220&section=header&text=Zia%20Arsalan&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 >👋 Hi, I'm Zia Arsalan! 🚀</h1>
+<h1 >👋 Hi, I'm Zia Arsalan!</h1>
+**`Tech Man`**
+I'm a software engineer, and founder at [Devtronics](https://devtronics.co).
 
 <p >
+
 💻 **Full Stack Developer (MERN) | React Native | Systems Builder** <br/>
-🧾 **POS Systems Expert | Digital Wallet Integration Specialist | IoT Enthusiast**  <br/>
-🎯 **Building scalable apps, offline-first systems & smart device solutions**  <br/>
+
+🧾 **POS Systems Expert | Digital Wallet Integration Specialist | IoT Enthusiast** <br/>
+
+🎯 **Building scalable apps, offline-first systems & smart device solutions** <br/>
+
 📍 **Available for Remote Work | Upwork & Fiverr**
+
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ziaArsalan&style=flat-square&color=00d9ff)
