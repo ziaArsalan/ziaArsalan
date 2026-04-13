@@ -2,19 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0a7ea4&height=220&section=header&text=Zia%20Arsalan&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Zia Arsalan! 🚀</h1>
+<h1 >👋 Hi, I'm Zia Arsalan! 🚀</h1>
 
-<p align="center">
-💻 **Full Stack Developer (MERN) | React Native | Systems Builder**  
-🧾 **POS Systems Expert | Digital Wallet Integration Specialist | IoT Enthusiast**  
-🎯 **Building scalable apps, offline-first systems & smart device solutions**  
+<p >
+💻 **Full Stack Developer (MERN) | React Native | Systems Builder** <br/>
+🧾 **POS Systems Expert | Digital Wallet Integration Specialist | IoT Enthusiast**  <br/>
+🎯 **Building scalable apps, offline-first systems & smart device solutions**  <br/>
 📍 **Available for Remote Work | Upwork & Fiverr**
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ziaArsalan&style=flat-square&color=00d9ff)
-
 ![GitHub Followers](https://img.shields.io/github/followers/ziaArsalan?label=Followers&style=social)
-
 ![GitHub Stars](https://img.shields.io/github/stars/ziaArsalan?label=Stars&style=social)
 
 ---
@@ -40,8 +38,6 @@ I am an experienced **Full-Stack Developer** with expertise in building **real-w
 I love **solving complex problems**, building **innovative solutions**, and working on **scalable, production-ready applications** that solve real business needs.
 
 #FullStackDeveloper #MERN #ReactNative #POS #DigitalWallet #IoT #BusinessSolutions
-
----
 
 ---
 
