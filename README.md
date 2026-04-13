@@ -78,11 +78,11 @@ I love **solving complex problems**, building **innovative solutions**, and work
 
 ## 🎯 **Key Focus Areas**
 
-✔️ **Real-World Business Solutions** - E-commerce, CRM, ERP, inventory management & reporting systems
-✔️ **Platform Integrations** - GoHighLevel GHL, Zapier, Make, Pabbly, Manychat and manymore
+✔️ **Real-World Business Solutions** - E-commerce, CRM, ERP, inventory management & reporting systems  
+✔️ **Platform Integrations** - GoHighLevel GHL, Zapier, Make, Pabbly, Manychat and manymore  
 ✔️ **Digital Wallet** - Apple Wallet (.pkpass) & Google Wallet for loyalty & membership programs  
 ✔️ **IoT & Smart Automation** - Smart breakers, switches, and server-connected control systems  
-✔️ **Mobile & Web Development** - React Native apps & responsive web applications
+✔️ **Mobile & Web Development** - React Native apps & responsive web applications  
 ✔️ **Offline-First POS Systems** - Building robust systems that work seamlessly offline and online
 
 #POS #DigitalWallet #IoT #MERN #ReactNative #BusinessAutomation
@@ -121,7 +121,7 @@ I love **solving complex problems**, building **innovative solutions**, and work
 ### 🎯 **Specialized Skills**
 
 ✅ **Apple Wallet & Google Wallet Integration**  
-✅ **Integrations** - GoHighLevel GHL, Zapier, Make, ManyChat etc.
+✅ **Integrations** - GoHighLevel GHL, Zapier, Make, ManyChat etc.  
 ✅ **PWA Development** - Progressive Web Apps  
 ✅ **IoT Device Communication** - MQTT, WebSockets, REST APIs  
 ✅ **POS System Architecture** - Offline sync, inventory, billing, reporting  
@@ -235,9 +235,8 @@ I love **solving complex problems**, building **innovative solutions**, and work
 ## 📬 **Let's Connect!**
 
 🌐 **Portfolio**: [ziaarsalan.com](https://ziaarsalan.com/)  
-💼 **Upwork**: [Profile Link]  
-🧑‍💻 **Fiverr**: [Profile Link]  
-💬 **Discord**: [Invite Link]
+💼 **Upwork**: [ziaarsalan](https://www.upwork.com/freelancers/~0178899ba493a3f67a)  
+🧑‍💻 **Fiverr**: [ziaarsalan](https://www.fiverr.com/ziaarsal)  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ziaarsalan/" target="_blank" rel="noopener noreferrer">
