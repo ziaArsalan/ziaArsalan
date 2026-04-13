@@ -43,6 +43,15 @@ I love **solving complex problems**, building **innovative solutions**, and work
 
 ---
 
+---
+
+## 🚀 Live Projects
+
+- POS System → (demo link)
+- Wallet Pass → (demo link)
+
+---
+
 ## 🎯 **Key Focus Areas**
 
 ✔️ **Offline-First POS Systems** - Building robust systems that work seamlessly offline and online  
@@ -149,6 +158,14 @@ I love **solving complex problems**, building **innovative solutions**, and work
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziaArsalan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziaArsalan&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  
+  <br/>
+
+</div>
 
 ---
 
