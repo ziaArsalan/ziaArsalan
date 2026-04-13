@@ -65,6 +65,7 @@ I love **solving complex problems**, building **innovative solutions**, and work
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
+[![Intro to ziaarsalan](https://ytcards.demolab.com/?id=3gkmKYUAYMk&title=Intro+to+ziaarsalan&lang=en&timestamp=1774106663&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=51 'Intro to ziaarsalan')](https://www.youtube.com/shorts/3gkmKYUAYMk)
 [![Reasons needing a website](https://ytcards.demolab.com/?id=YCct2HPoTMk&title=Reasons+needing+a+website&lang=en&timestamp=1774106663&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=51 'Reasons needing a website')](https://www.youtube.com/shorts/YCct2HPoTMk)
 [![AI Vehicle Detection](https://ytcards.demolab.com/?id=43Kybncl2x8&title=AI+Vehicle+Detection.&lang=en&timestamp=1775136630&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1757 'AI Vehicle Detection')](https://www.youtube.com/watch?v=43Kybncl2x8)
 [![POS System](https://ytcards.demolab.com/?id=oYuAMFIzpds&title=POS+System&lang=en&timestamp=1774900800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1037 'POS System')](https://www.youtube.com/watch?v=oYuAMFIzpds)
