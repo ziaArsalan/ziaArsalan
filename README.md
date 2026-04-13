@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0a7ea4&height=220&section=header&text=AI%20SaaS%20Solutions&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:94B9F9,100:5EE4FF&height=220&section=header&text=AI%20SaaS%20Solutions&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 >👋 Hi, I'm Zia Arsalan!</h1>
