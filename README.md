@@ -63,14 +63,13 @@ I love **solving complex problems**, building **innovative solutions**, and work
 
 ## 🚀 Live Projects
 
-<!-- - [POS System](https://youtu.be/oYuAMFIzpds?si=vHyvNv23mVPT6QJN)
-- [Wallet Pass](https://youtu.be/ToZWfw3rNro?si=0Xh64OAS9vKpkXKr) -->
-
 <!-- BEGIN YOUTUBE-CARDS -->
 
+[![Reasons needing a website](https://ytcards.demolab.com/?id=YCct2HPoTMk&title=Reasons+needing+a+website&lang=en&timestamp=1774106663&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=51 'Reasons needing a website')](https://www.youtube.com/shorts/YCct2HPoTMk)
 [![AI Vehicle Detection](https://ytcards.demolab.com/?id=43Kybncl2x8&title=AI+Vehicle+Detection.&lang=en&timestamp=1775136630&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1757 'AI Vehicle Detection')](https://www.youtube.com/watch?v=43Kybncl2x8)
 [![POS System](https://ytcards.demolab.com/?id=oYuAMFIzpds&title=POS+System&lang=en&timestamp=1774900800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1037 'POS System')](https://www.youtube.com/watch?v=oYuAMFIzpds)
 [![Aplpe Wallet Pass (.pkpass)](https://ytcards.demolab.com/?id=ToZWfw3rNro&title=Apple+Wallet+Pass+%28.pkpass%29&lang=en&timestamp=1774106663&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=51 'Aplpe Wallet Pass (.pkpass)')](https://www.youtube.com/shorts/ToZWfw3rNro)
+[![HTML Editor](https://ytcards.demolab.com/?id=SyrcYI4wOmQ&title=HTML+Editor&lang=en&timestamp=1774106663&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=51 'HTML Editor')](https://www.youtube.com/shorts/SyrcYI4wOmQ)
 
 <!-- END YOUTUBE-CARDS -->
 
@@ -78,11 +77,12 @@ I love **solving complex problems**, building **innovative solutions**, and work
 
 ## 🎯 **Key Focus Areas**
 
-✔️ **Offline-First POS Systems** - Building robust systems that work seamlessly offline and online  
-✔️ **Digital Wallet Integration** - Apple Wallet (.pkpass) & Google Wallet for loyalty & membership programs  
+✔️ **Real-World Business Solutions** - E-commerce, CRM, ERP, inventory management & reporting systems
+✔️ **Platform Integrations** - GoHighLevel GHL, Zapier, Make, Pabbly, Manychat and manymore
+✔️ **Digital Wallet** - Apple Wallet (.pkpass) & Google Wallet for loyalty & membership programs  
 ✔️ **IoT & Smart Automation** - Smart breakers, switches, and server-connected control systems  
-✔️ **Mobile & Web Development** - React Native apps & responsive web applications  
-✔️ **Real-World Business Solutions** - E-commerce, inventory management & reporting systems
+✔️ **Mobile & Web Development** - React Native apps & responsive web applications
+✔️ **Offline-First POS Systems** - Building robust systems that work seamlessly offline and online
 
 #POS #DigitalWallet #IoT #MERN #ReactNative #BusinessAutomation
 
@@ -119,10 +119,11 @@ I love **solving complex problems**, building **innovative solutions**, and work
 
 ### 🎯 **Specialized Skills**
 
-✅ **POS System Architecture** - Offline sync, inventory, billing, reporting  
 ✅ **Apple Wallet & Google Wallet Integration**  
-✅ **IoT Device Communication** - MQTT, WebSockets, REST APIs  
+✅ **Integrations** - GoHighLevel GHL, Zapier, Make, ManyChat etc.
 ✅ **PWA Development** - Progressive Web Apps  
+✅ **IoT Device Communication** - MQTT, WebSockets, REST APIs  
+✅ **POS System Architecture** - Offline sync, inventory, billing, reporting  
 ✅ **State Management** - Redux, Context API, Zustand
 
 #POS #DigitalWallet #IoT #PWA #StateManagement
