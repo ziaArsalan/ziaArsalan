@@ -31,9 +31,9 @@ I'm a software engineer, and founder at [Devtronics](https://devtronics.co).
 
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ziaArsalan&style=flat-square&color=00d9ff)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=ziaArsalan&style=flat-square&color=00d9ff)
 ![GitHub Followers](https://img.shields.io/github/followers/ziaArsalan?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/ziaArsalan?label=Stars&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/ziaArsalan?label=Stars&style=social) -->
 
 ---
 
