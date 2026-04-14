@@ -4,7 +4,7 @@
 
 <h1 >👋 Hi, I'm Zia Arsalan!</h1>
 
-**`Tech Man`**
+**`Tech Man`** to rescue
 
 I'm a software engineer, and founder at [Devtronics](https://devtronics.co).
 
@@ -131,7 +131,7 @@ I love **solving complex problems**, building **innovative solutions**, and work
 
 ---
 
-## 🚀 **Featured Projects**
+<!-- ## 🚀 **Featured Projects**
 
 ### 🧾 **POS System**
 
@@ -171,19 +171,23 @@ I love **solving complex problems**, building **innovative solutions**, and work
 
 ---
 
+ -->
+
 ## 📊 **GitHub Analytics**
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziaArsalan&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ziaArsalan&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziaArsalan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+ -->
 
 <div align="center">
   
@@ -198,7 +202,8 @@ I love **solving complex problems**, building **innovative solutions**, and work
 ## 🏆 **Achievements**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ziaArsalan&theme=radical&no-bg=true" alt="GitHub Trophies" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=ziaArsalan&theme=radical&no-bg=true" alt="GitHub Trophies" /> -->
+  <img src="https://nirzak-trophies.vercel.app/?username=ziaArsalan&theme=radical&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
