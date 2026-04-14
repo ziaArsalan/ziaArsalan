@@ -4,7 +4,7 @@
 
 <h1 >👋 Hi, I'm Zia Arsalan!</h1>
 
-**`Tech Man`** to rescue
+**`Tech Man`**
 
 I'm a software engineer, and founder at [Devtronics](https://devtronics.co).
 
