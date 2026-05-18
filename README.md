@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0a7ea4&height=220&section=header&text=AI%20SaaS%20Solutions&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:94B9F9,100:5EE4FF&height=220&section=header&text=AI%20SaaS%20Solutions&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 >👋 Hi, I'm Zia Arsalan!</h1>
@@ -31,9 +31,9 @@ I'm a software engineer, and founder at [Devtronics](https://devtronics.co).
 
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ziaArsalan&style=flat-square&color=00d9ff)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=ziaArsalan&style=flat-square&color=00d9ff)
 ![GitHub Followers](https://img.shields.io/github/followers/ziaArsalan?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/ziaArsalan?label=Stars&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/ziaArsalan?label=Stars&style=social) -->
 
 ---
 
@@ -79,11 +79,11 @@ I love **solving complex problems**, building **innovative solutions**, and work
 
 ## 🎯 **Key Focus Areas**
 
-✔️ **Real-World Business Solutions** - E-commerce, CRM, ERP, inventory management & reporting systems
-✔️ **Platform Integrations** - GoHighLevel GHL, Zapier, Make, Pabbly, Manychat and manymore
+✔️ **Real-World Business Solutions** - E-commerce, CRM, ERP, inventory management & reporting systems  
+✔️ **Platform Integrations** - GoHighLevel GHL, Zapier, Make, Pabbly, Manychat and manymore  
 ✔️ **Digital Wallet** - Apple Wallet (.pkpass) & Google Wallet for loyalty & membership programs  
 ✔️ **IoT & Smart Automation** - Smart breakers, switches, and server-connected control systems  
-✔️ **Mobile & Web Development** - React Native apps & responsive web applications
+✔️ **Mobile & Web Development** - React Native apps & responsive web applications  
 ✔️ **Offline-First POS Systems** - Building robust systems that work seamlessly offline and online
 
 #POS #DigitalWallet #IoT #MERN #ReactNative #BusinessAutomation
@@ -122,7 +122,7 @@ I love **solving complex problems**, building **innovative solutions**, and work
 ### 🎯 **Specialized Skills**
 
 ✅ **Apple Wallet & Google Wallet Integration**  
-✅ **Integrations** - GoHighLevel GHL, Zapier, Make, ManyChat etc.
+✅ **Integrations** - GoHighLevel GHL, Zapier, Make, ManyChat etc.  
 ✅ **PWA Development** - Progressive Web Apps  
 ✅ **IoT Device Communication** - MQTT, WebSockets, REST APIs  
 ✅ **POS System Architecture** - Offline sync, inventory, billing, reporting  
@@ -132,7 +132,7 @@ I love **solving complex problems**, building **innovative solutions**, and work
 
 ---
 
-## 🚀 **Featured Projects**
+<!-- ## 🚀 **Featured Projects**
 
 ### 🧾 **POS System**
 
@@ -172,19 +172,23 @@ I love **solving complex problems**, building **innovative solutions**, and work
 
 ---
 
+ -->
+
 ## 📊 **GitHub Analytics**
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziaArsalan&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ziaArsalan&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziaArsalan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+ -->
 
 <div align="center">
   
@@ -199,7 +203,8 @@ I love **solving complex problems**, building **innovative solutions**, and work
 ## 🏆 **Achievements**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ziaArsalan&theme=radical&no-bg=true" alt="GitHub Trophies" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=ziaArsalan&theme=radical&no-bg=true" alt="GitHub Trophies" /> -->
+  <img src="https://nirzak-trophies.vercel.app/?username=ziaArsalan&theme=radical&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -236,15 +241,14 @@ I love **solving complex problems**, building **innovative solutions**, and work
 ## 📬 **Let's Connect!**
 
 🌐 **Portfolio**: [ziaarsalan.com](https://ziaarsalan.com/)  
-💼 **Upwork**: [Profile Link]  
-🧑‍💻 **Fiverr**: [Profile Link]  
-💬 **Discord**: [Invite Link]
+💼 **Upwork**: [ziaarsalan](https://www.upwork.com/freelancers/~0178899ba493a3f67a)  
+🧑‍💻 **Fiverr**: [ziaarsalan](https://www.fiverr.com/ziaarsal)  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ziaarsalan/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
-  <a href="https://twitter.com/ziaarsalan" target="_blank" rel="noopener noreferrer">
+  <a href="https://twitter.com/ZiaArsalan94" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" />
   </a>
   <a href="https://github.com/ziaArsalan" target="_blank" rel="noopener noreferrer">
