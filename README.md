@@ -71,6 +71,7 @@ I love **solving complex problems**, building **innovative solutions**, and work
 [![POS System](https://ytcards.demolab.com/?id=oYuAMFIzpds&title=POS+System&lang=en&timestamp=1774900800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1037 'POS System')](https://www.youtube.com/watch?v=oYuAMFIzpds)
 [![Aplpe Wallet Pass (.pkpass)](https://ytcards.demolab.com/?id=ToZWfw3rNro&title=Apple+Wallet+Pass+%28.pkpass%29&lang=en&timestamp=1774106663&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=51 'Aplpe Wallet Pass (.pkpass)')](https://www.youtube.com/shorts/ToZWfw3rNro)
 [![HTML Editor](https://ytcards.demolab.com/?id=SyrcYI4wOmQ&title=HTML+Editor&lang=en&timestamp=1774106663&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=51 'HTML Editor')](https://www.youtube.com/shorts/SyrcYI4wOmQ)
+[![Video](https://ytcards.demolab.com/?id=RXMU7FyNRpw&title=New+Video&lang=en&timestamp=1774106663&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0 'New Video')](https://www.youtube.com/watch?v=RXMU7FyNRpw)
 
 <!-- END YOUTUBE-CARDS -->
 
