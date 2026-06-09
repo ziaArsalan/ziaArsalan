@@ -77,6 +77,318 @@ I love **solving complex problems**, building **innovative solutions**, and work
 
 ---
 
+## 💼 **Portfolio Projects**
+
+> **27 production apps** shipped across 10+ countries — AI agents, digital wallet SaaS, fleet platforms, mobile apps, and more.
+
+---
+
+### 🤖 AI & Automation
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Recrula](https://recrula.com/)**
+
+AI-powered recruitment SaaS that uses LLMs to automate candidate screening, scoring, and shortlisting.
+
+![](https://img.shields.io/badge/-AI-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/-LLM-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-HR%20Tech-22C55E?style=flat-square) ![](https://img.shields.io/badge/-Automation-F59E0B?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[Meet Gabbi](https://meetgabbi.com/)**
+
+Fully deployed AI support agent handling customer queries end-to-end using LLMs — with escalation logic, context memory, and CRM integration.
+
+![](https://img.shields.io/badge/-AI-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/-AI%20Agent-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/-LLM-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/-Customer%20Support-22C55E?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 💳 Loyalty & Digital Wallet SaaS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[LoyalIdeas](https://loyalideas.com/)** &nbsp;🇵🇰 🇦🇪 🇺🇸
+
+White-label loyalty platform where businesses issue digital membership cards via Apple/Google Wallet — no app download needed. Live across 3 countries.
+
+![](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-White%20Label-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Loyalty-22C55E?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[Cardly](https://cardlysa.com/)** &nbsp;🇸🇦
+
+White-label Apple/Google Wallet loyalty platform for the Saudi market with full Arabic/English bilingual support.
+
+![](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Arabic-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Loyalty-22C55E?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Walaa](https://walaa.com.sa/)** &nbsp;🇸🇦
+
+Apple/Google Wallet loyalty and membership platform deployed in Saudi Arabia — digital card issuance, loyalty workflows, and Arabic-first UX.
+
+![](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square) ![](https://img.shields.io/badge/-Membership-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Arabic-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Loyalty-22C55E?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[Walletly](https://walletly.ai/)**
+
+Digital wallet platform letting businesses manage loyalty passes, digital memberships, and wallet-based transactions for their customers.
+
+![](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Payments-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Loyalty-22C55E?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[WalletCampaigns](https://walletcampaigns.com/)**
+
+White-label SaaS that lets businesses issue Apple/Google Wallet passes and run targeted push notification campaigns — fully rebrandable for resellers.
+
+![](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square) ![](https://img.shields.io/badge/-White%20Label-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Push%20Notifications-EF4444?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[LoyaltyJar](https://loyaltyjar.com/)** &nbsp;🇸🇦
+
+Advanced loyalty platform offering modular loyalty programs, Apple/Google Wallet pass issuance, and tailored customer experience solutions.
+
+![](https://img.shields.io/badge/-Loyalty-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Rewards-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Arabic-F59E0B?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[WelcomeBack](https://welcomeback.io/)**
+
+Restaurant SaaS combining digital menus, Apple/Google Wallet loyalty passes, online ordering, and automated marketing — all in one platform.
+
+![](https://img.shields.io/badge/-Loyalty-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-Restaurant-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Digital%20Menu-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[Passport Studio](https://passports.studio/)**
+
+SaaS to design, launch, and manage Apple/Google Wallet passes with scheduled, location-based, and automated push notifications.
+
+![](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square) ![](https://img.shields.io/badge/-Push%20Notifications-EF4444?style=flat-square) ![](https://img.shields.io/badge/-Location--based-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🚗 Fleet, Mobility & Transport
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[DriveIQ](https://drive-iq.ai/)**
+
+Full fleet management SaaS for Amazon Delivery Service Partners — driver dispatch, wave scheduling, real-time scorecards, compliance tracking, and team comms.
+
+![](https://img.shields.io/badge/-Amazon%20DSP-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Fleet%20Management-EF4444?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Dispatch-64748B?style=flat-square) ![](https://img.shields.io/badge/-Logistics-64748B?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[Tourdec](https://tourdec.com/)**
+
+Live eBike fleet management system with real-time GPS tracking, booking management, and maintenance scheduling — deployed for a fleet operator.
+
+![](https://img.shields.io/badge/-eBike-22C55E?style=flat-square) ![](https://img.shields.io/badge/-IoT-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-GPS%20Tracking-EF4444?style=flat-square) ![](https://img.shields.io/badge/-Fleet-64748B?style=flat-square) ![](https://img.shields.io/badge/-Rental-0A84FF?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[The DriveHub](https://thedrivehub.com/)** &nbsp;🇦🇪
+
+Car rental marketplace live across Dubai, Abu Dhabi, and Sharjah — multi-vendor listings, price comparison, booking engine, and transparent rental terms.
+
+![](https://img.shields.io/badge/-Car%20Rental-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Marketplace-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/-UAE-EF4444?style=flat-square) ![](https://img.shields.io/badge/-Multi--vendor-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Booking-22C55E?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[Car Rental Platforms](https://rently.pk/)** &nbsp;🇵🇰 🇦🇪 🇺🇸
+
+Car rental platforms deployed across 3 countries — booking engines, payment integrations, fleet management dashboards, and localised UX.
+
+![](https://img.shields.io/badge/-Car%20Rental-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Multi--country-22C55E?style=flat-square) ![](https://img.shields.io/badge/-Booking-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/-Fleet-64748B?style=flat-square) ![](https://img.shields.io/badge/-Payments-EF4444?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 📱 Mobile Apps
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[DriveIQ iOS](https://apps.apple.com/us/app/drive-iq/id6772569712)** &nbsp;🇺🇸
+
+Mobile interface for Amazon DSP drivers — check-in, incident reporting with photos, schedule viewing, and team messaging. Live on US App Store.
+
+![](https://img.shields.io/badge/-iOS-007AFF?style=flat-square) ![](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square) ![](https://img.shields.io/badge/-Amazon%20DSP-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-App%20Store-0A84FF?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[The DriveHub iOS](https://apps.apple.com/ae/app/the-drive-hub/id6755479169)** &nbsp;🇦🇪
+
+Browse verified rental providers, compare prices, and book cars across Dubai and the UAE. Live on UAE App Store.
+
+![](https://img.shields.io/badge/-iOS-007AFF?style=flat-square) ![](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square) ![](https://img.shields.io/badge/-UAE-EF4444?style=flat-square) ![](https://img.shields.io/badge/-App%20Store-0A84FF?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Tourdec iOS](https://apps.apple.com/tm/app/tourdec/id6751212027)**
+
+iPhone companion for the Tourdec eBike fleet platform — ride management, GPS tracking, and operator tools. Live on App Store.
+
+![](https://img.shields.io/badge/-iOS-007AFF?style=flat-square) ![](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square) ![](https://img.shields.io/badge/-eBike-22C55E?style=flat-square) ![](https://img.shields.io/badge/-Fleet-64748B?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[Tourdec Android](https://play.google.com/store/apps/details?id=com.tourdec.app)**
+
+Android companion for the Tourdec eBike fleet platform — ride management, GPS tracking, and operator controls. Live on Google Play.
+
+![](https://img.shields.io/badge/-Android-3DDC84?style=flat-square) ![](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square) ![](https://img.shields.io/badge/-eBike-22C55E?style=flat-square) ![](https://img.shields.io/badge/-Google%20Play-3DDC84?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ⚙️ GoHighLevel Marketplace
+
+> 3 apps published in the official GHL marketplace, used by agencies across the US.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**[All the Apps](https://marketplace.gohighlevel.com/integration/683ed93a8ded1a4103d118a2/versions/69df9ea08b8f261b3e2c777a)**
+
+Native GHL integration extending platform functionality for GHL agencies and sub-accounts.
+
+![](https://img.shields.io/badge/-GoHighLevel-6366F1?style=flat-square) ![](https://img.shields.io/badge/-CRM-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Automation-F59E0B?style=flat-square)
+
+</td>
+<td width="33%" valign="top">
+
+**[Calendar For CRM](https://marketplace.gohighlevel.com/integration/68516a4c857ac41f0ac67980/versions/68516a4c857ac41f0ac67980)**
+
+Scheduling and calendar management tool built natively for GHL CRM workflows.
+
+![](https://img.shields.io/badge/-GoHighLevel-6366F1?style=flat-square) ![](https://img.shields.io/badge/-Calendar-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-CRM-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Scheduling-F59E0B?style=flat-square)
+
+</td>
+<td width="33%" valign="top">
+
+**[Dashboard Tools](https://marketplace.gohighlevel.com/integration/685165a6af8a69551edaefdc/versions/685165a6af8a69551edaefdc)**
+
+Extends GHL with custom dashboards and reporting views for agencies managing multiple sub-accounts.
+
+![](https://img.shields.io/badge/-GoHighLevel-6366F1?style=flat-square) ![](https://img.shields.io/badge/-Dashboard-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Analytics-22C55E?style=flat-square) ![](https://img.shields.io/badge/-Reporting-F59E0B?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🛒 Ecommerce & Business Platforms
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[MicahGuru](https://micahguru.com/)**
+
+Legal-tech SaaS automating US LLC formation, EIN application, and business bank account setup — serving Pakistani and international founders online.
+
+![](https://img.shields.io/badge/-Legal%20Tech-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-USA-EF4444?style=flat-square) ![](https://img.shields.io/badge/-Fintech-22C55E?style=flat-square) ![](https://img.shields.io/badge/-LLC%20Formation-64748B?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[FlowPOS](https://pos.devtronics.co/)**
+
+Cross-platform desktop POS app built with Electron.js — sales processing, inventory management, and customer tracking that works offline.
+
+![](https://img.shields.io/badge/-Electron.js-47848F?style=flat-square) ![](https://img.shields.io/badge/-POS-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Offline%20First-22C55E?style=flat-square) ![](https://img.shields.io/badge/-Retail-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Desktop%20App-64748B?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[LCT Auto](https://lctautollc.com/)** &nbsp;🇺🇸
+
+Car dealership web platform for a Texas-based dealer — vehicle inventory, financing info, and test drive scheduling.
+
+![](https://img.shields.io/badge/-Automotive-64748B?style=flat-square) ![](https://img.shields.io/badge/-USA-EF4444?style=flat-square) ![](https://img.shields.io/badge/-Inventory-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Ecommerce-EC4899?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[TradexCo](https://tradexco.com.au/)** &nbsp;🇦🇺
+
+Custom sportswear ecommerce platform — team uniforms, club merchandise, and custom jersey ordering with product personalisation.
+
+![](https://img.shields.io/badge/-Ecommerce-EC4899?style=flat-square) ![](https://img.shields.io/badge/-Sportswear-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Australia-22C55E?style=flat-square) ![](https://img.shields.io/badge/-Custom%20Merch-8B5CF6?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Zahra Ebrahim](https://zahraebrahim.com/)**
+
+Fully custom ecommerce platform for a furniture and home decor brand — product catalogue, collections, and full shop experience.
+
+![](https://img.shields.io/badge/-Ecommerce-EC4899?style=flat-square) ![](https://img.shields.io/badge/-Furniture-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Custom%20Store-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Home%20Decor-8B5CF6?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
+
+---
+
 ## 🎯 **Key Focus Areas**
 
 ✔️ **Real-World Business Solutions** - E-commerce, CRM, ERP, inventory management & reporting systems  
@@ -131,48 +443,6 @@ I love **solving complex problems**, building **innovative solutions**, and work
 #POS #DigitalWallet #IoT #PWA #StateManagement
 
 ---
-
-<!-- ## 🚀 **Featured Projects**
-
-### 🧾 **POS System**
-
-💼 **Offline-First Enterprise POS**
-
-- ✅ Offline transaction processing with cloud sync
-- ✅ Real-time inventory management
-- ✅ Advanced billing & discount system
-- ✅ Multi-store sales analytics & reports
-- ✅ Tax & receipt management
-
-**Tech**: React, Node.js, MongoDB, SQLite (offline)
-
-### 🎟 **Digital Wallet Pass System**
-
-💳 **Apple Wallet & Google Wallet Integration**
-
-- ✅ Apple Wallet (.pkpass) generation & management
-- ✅ Google Wallet API integration
-- ✅ Loyalty programs & membership cards
-- ✅ QR code tracking & redemption
-- ✅ Push notifications for pass updates
-
-**Tech**: React, Node.js, PKPass Library, Google Wallet API
-
-### 🔌 **IoT Smart Control System**
-
-🏠 **Smart Device Automation Platform**
-
-- ✅ Smart breaker & switch control
-- ✅ Real-time device monitoring
-- ✅ Server-connected dashboard
-- ✅ Automated scheduling & rules
-- ✅ Mobile app for remote control
-
-**Tech**: React Native, Node.js, MQTT, WebSockets
-
----
-
- -->
 
 ## 📊 **GitHub Analytics**
 
@@ -242,7 +512,7 @@ I love **solving complex problems**, building **innovative solutions**, and work
 
 🌐 **Portfolio**: [ziaarsalan.com](https://ziaarsalan.com/)  
 💼 **Upwork**: [ziaarsalan](https://www.upwork.com/freelancers/~0178899ba493a3f67a)  
-🧑‍💻 **Fiverr**: [ziaarsalan](https://www.fiverr.com/ziaarsal)  
+🧑‍💻 **Fiverr**: [ziaarsalan](https://www.fiverr.com/ziaarsal)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ziaarsalan/" target="_blank" rel="noopener noreferrer">
