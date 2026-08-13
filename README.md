@@ -37,9 +37,9 @@ I'm a software engineer, and founder at [Devtronics](https://devtronics.co).
 
 ---
 
-<!-- Banner GIF removed: the gifdb.com asset was deleted upstream (404).
-     To restore, commit a GIF to this repo (e.g. assets/coding.gif) and use:
-     <p align="center"><img src="assets/coding.gif" width="400" alt="Animated coding illustration" /></p> -->
+<p align="center">
+  <img src="assets/coding.gif" width="620" alt="Terminal animation: Zia Arsalan — full-stack engineer, founder @ Devtronics; React Native, Node.js, MongoDB, Electron; 27 production apps across 10+ countries" />
+</p>
 
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
@@ -56,8 +56,6 @@ I am an experienced **Full-Stack Developer** with expertise in building **real-w
 ✅ **IoT & smart device automation** integrations
 
 I love **solving complex problems**, building **innovative solutions**, and working on **scalable, production-ready applications** that solve real business needs.
-
-#FullStackDeveloper #MERN #ReactNative #POS #DigitalWallet #IoT #BusinessSolutions
 
 ---
 
@@ -156,8 +154,6 @@ Digital wallet platform letting businesses manage loyalty passes, digital member
 <tr>
 <td width="50%" valign="top">
 
-<!-- Link removed: walletcampaigns.com DNS is not resolving (authoritative NS return REFUSED;
-     registration valid to 2027-01-14). Restore the link once the DNSimple zone is reconnected. -->
 **WalletCampaigns**
 
 White-label SaaS that lets businesses issue Apple/Google Wallet passes and run targeted push notification campaigns — fully rebrandable for resellers.
@@ -198,7 +194,7 @@ SaaS to design, launch, and manage Apple/Google Wallet passes with scheduled, lo
 <tr>
 <td width="50%" valign="top">
 
-**[StayLoyal](https://app.stayloyal.net/)**
+**[StayLoyal](https://app.stayloyal.net/)** &nbsp;🇶🇦
 
 Loyalty SaaS that lets businesses run digital stamp and rewards programs through Apple/Google Wallet passes — customers stay enrolled without installing an app.
 
@@ -360,9 +356,7 @@ Legal-tech SaaS automating US LLC formation, EIN application, and business bank 
 </td>
 <td width="50%" valign="top">
 
-<!-- Link removed: pos.devtronics.co returns NXDOMAIN (root devtronics.co is fine —
-     only the `pos` subdomain record is missing). Restore the link once the DNS record is added. -->
-**FlowPOS**
+**[FlowPOS](https://pos.devtronics.co/)**
 
 Cross-platform desktop POS app built with Electron.js — sales processing, inventory management, and customer tracking that works offline.
 
@@ -407,58 +401,35 @@ Fully custom ecommerce platform for a furniture and home decor brand — product
 
 ---
 
-## 🎯 **Key Focus Areas**
+## 🛠️ **What I Build**
 
-✔️ **Real-World Business Solutions** - E-commerce, CRM, ERP, inventory management & reporting systems  
-✔️ **Platform Integrations** - GoHighLevel GHL, Zapier, Make, Pabbly, Manychat and manymore  
-✔️ **Digital Wallet** - Apple Wallet (.pkpass) & Google Wallet for loyalty & membership programs  
-✔️ **IoT & Smart Automation** - Smart breakers, switches, and server-connected control systems  
-✔️ **Mobile & Web Development** - React Native apps & responsive web applications  
-✔️ **Offline-First POS Systems** - Building robust systems that work seamlessly offline and online
+| Area | What that means in production |
+| :--- | :--- |
+| **Digital Wallet** | Apple Wallet (.pkpass) & Google Wallet passes — loyalty, membership, and push campaigns |
+| **Offline-First POS** | Desktop point-of-sale with cloud sync, inventory, billing, and reporting |
+| **Business Platforms** | Ecommerce, CRM/ERP, fleet, and booking systems with reporting dashboards |
+| **Integrations** | GoHighLevel, Zapier, Make, Pabbly, ManyChat, and payment gateways |
+| **IoT & Automation** | Smart breakers and switches over MQTT, WebSockets, and REST |
+| **Mobile** | React Native apps shipped to the App Store and Google Play |
 
-#POS #DigitalWallet #IoT #MERN #ReactNative #BusinessAutomation
-
----
-
-## 🛠️ **Technical Skills**
-
-### 🚀 **Frontend Development**
-
-✅ **React.js, React Native, TypeScript, Tailwind CSS**  
-✅ **Redux, Context API, React Navigation**  
-✅ **JavaScript (ES6+), HTML5, CSS3, Bootstrap**
+Systems that work offline and online, built for production and complex integrations — with an Upwork and Fiverr track record behind them.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-#FrontendDevelopment #React #ReactNative #TypeScript #Tailwind
-
-### ⚙️ **Backend Development**
-
-✅ **Node.js, Express.js, MongoDB, Firebase**  
-✅ **REST API, GraphQL, WebSockets, Authentication (JWT, OAuth)**  
-✅ **Database Design, Indexing & Optimization**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Electron.js](https://img.shields.io/badge/Electron.js-47848F?style=flat-square&logo=electron&logoColor=white)
 
-#BackendDevelopment #NodeJS #ExpressJS #MongoDB #API
-
-### 🎯 **Specialized Skills**
-
-✅ **Apple Wallet & Google Wallet Integration**  
-✅ **Integrations** - GoHighLevel GHL, Zapier, Make, ManyChat etc.  
-✅ **PWA Development** - Progressive Web Apps  
-✅ **IoT Device Communication** - MQTT, WebSockets, REST APIs  
-✅ **POS System Architecture** - Offline sync, inventory, billing, reporting  
-✅ **State Management** - Redux, Context API, Zustand
-
-#POS #DigitalWallet #IoT #PWA #StateManagement
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,typescript,javascript,html,css,express,firebase,git,github,vscode&perline=12" alt="Tech stack icons: React, Node.js, MongoDB, TypeScript, JavaScript, HTML, CSS, Express, Firebase, Git, GitHub, VS Code" />
+  </a>
+</p>
 
 ---
 
@@ -494,26 +465,6 @@ Fully custom ecommerce platform for a furniture and home decor brand — product
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=ziaArsalan&theme=radical&no-bg=true" alt="GitHub Trophies" /> -->
   <img src="https://nirzak-trophies.vercel.app/?username=ziaArsalan&theme=radical&no-bg=true" alt="GitHub Trophies" />
 </p>
-
----
-
-## 🛠️ **Tech Stack Overview**
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,typescript,javascript,html,css,express,firebase,git,github,vscode&perline=12" />
-  </a>
-</p>
-
----
-
-## ⚡ **What Makes Me Different**
-
-✔️ **Build systems that work offline + online seamlessly**  
-✔️ **Strong in real-world business solutions** (POS, IoT, Digital Wallets)  
-✔️ **Focus on production-ready, scalable architecture**  
-✔️ **Experience with complex integrations** (payment, wallet, IoT)  
-✔️ **Client-focused development** with proven Upwork & Fiverr track record
 
 ---
 
