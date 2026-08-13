@@ -21,11 +21,13 @@ I'm a software engineer, and founder at [Devtronics](https://devtronics.co).
 
 <p >
 
-💻 **Full Stack Developer (MERN) | React Native | Systems Builder** <br/>
+💳 **Apple Wallet & Google Wallet Specialist** — .pkpass issuance, loyalty & membership passes at scale <br/>
 
-🧾 **POS Systems Expert | Digital Wallet Integration Specialist | IoT Enthusiast** <br/>
+💻 **Full Stack Engineer (MERN)** — React, Node.js, Express, MongoDB & React Native <br/>
 
-🎯 **Building scalable apps, offline-first systems & smart device solutions** <br/>
+🤖 **AI Development & Automation** — LLM integrations, agentic workflows & multi-agent systems <br/>
+
+⚙️ **GoHighLevel Developer** — 3 published marketplace apps, CRM integrations & automations <br/>
 
 📍 **Available for Remote Work | Upwork & Fiverr**
 
@@ -38,7 +40,7 @@ I'm a software engineer, and founder at [Devtronics](https://devtronics.co).
 ---
 
 <p align="center">
-  <img src="assets/coding.gif" width="620" alt="Terminal animation: Zia Arsalan — full-stack engineer, founder @ Devtronics; React Native, Node.js, MongoDB, Electron; 27 production apps across 10+ countries" />
+  <img src="assets/coding.gif" width="620" alt="Terminal animation: Zia Arsalan — full-stack engineer, founder @ Devtronics; focus areas Apple &amp; Google Wallet, MERN, AI Agents, GoHighLevel; 27 production apps across 10+ countries" />
 </p>
 
 <!-- <p align="center">
@@ -47,15 +49,14 @@ I'm a software engineer, and founder at [Devtronics](https://devtronics.co).
 
 ## 🔹 **About Me**
 
-I am an experienced **Full-Stack Developer** with expertise in building **real-world business solutions** and **innovative digital products**. I specialize in:
+I'm a **full-stack engineer** who ships production SaaS, not prototypes — 27 apps live across 10+ countries. Four things I go deep on:
 
-✅ **React.js, React Native, and TypeScript** for high-performance UI/UX  
-✅ **Node.js, Express.js, and MongoDB** for scalable backends  
-✅ **Offline-first POS systems** with cloud synchronization  
-✅ **Digital wallet integrations** (Apple Wallet & Google Wallet)  
-✅ **IoT & smart device automation** integrations
+✅ **Apple Wallet & Google Wallet** — .pkpass generation, pass signing, push updates, and white-label loyalty platforms. Nine wallet products shipped, live in Pakistan, the UAE, Saudi Arabia, Qatar and the US.  
+✅ **Full Stack (MERN)** — React, Node.js, Express and MongoDB, plus React Native for mobile. Every platform below is built on this stack.  
+✅ **AI integration, automation & multi-agent systems** — LLM-powered products with agentic workflows, context memory, escalation logic and CRM hand-off.  
+✅ **GoHighLevel** — 3 apps published in the official GHL marketplace, plus custom CRM integrations and automation across Zapier, Make, Pabbly and ManyChat.
 
-I love **solving complex problems**, building **innovative solutions**, and working on **scalable, production-ready applications** that solve real business needs.
+I also bring deep experience in **offline-first POS systems** and **IoT device integration** — useful whenever a build has to survive bad connectivity or talk to real hardware.
 
 ---
 
@@ -77,36 +78,9 @@ I love **solving complex problems**, building **innovative solutions**, and work
 
 ## 💼 **Portfolio Projects**
 
-> **27 production apps** shipped across 10+ countries — AI agents, digital wallet SaaS, fleet platforms, mobile apps, and more.
+> **27 production apps** shipped across 10+ countries — 9 Apple/Google Wallet platforms, AI agents, 3 GoHighLevel marketplace apps, fleet systems, and mobile apps.
 
 ---
-
-### 🤖 AI & Automation
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[Recrula](https://recrula.com/)**
-
-AI-powered recruitment SaaS that uses LLMs to automate candidate screening, scoring, and shortlisting.
-
-![AI](https://img.shields.io/badge/-AI-8B5CF6?style=flat-square) ![LLM](https://img.shields.io/badge/-LLM-8B5CF6?style=flat-square) ![SaaS](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![HR Tech](https://img.shields.io/badge/-HR%20Tech-22C55E?style=flat-square) ![Automation](https://img.shields.io/badge/-Automation-F59E0B?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-**[Meet Gabbi](https://meetgabbi.com/)**
-
-Fully deployed AI support agent handling customer queries end-to-end using LLMs — with escalation logic, context memory, and CRM integration.
-
-![AI](https://img.shields.io/badge/-AI-8B5CF6?style=flat-square) ![AI Agent](https://img.shields.io/badge/-AI%20Agent-8B5CF6?style=flat-square) ![LLM](https://img.shields.io/badge/-LLM-8B5CF6?style=flat-square) ![Customer Support](https://img.shields.io/badge/-Customer%20Support-22C55E?style=flat-square) ![SaaS](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ### 💳 Loyalty & Digital Wallet SaaS
 
@@ -209,6 +183,71 @@ Loyalty SaaS that lets businesses run digital stamp and rewards programs through
 
 <br/>
 
+### 🤖 AI, Automation & Multi-Agent Systems
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Recrula](https://recrula.com/)**
+
+AI-powered recruitment SaaS that uses LLMs to automate candidate screening, scoring, and shortlisting.
+
+![AI](https://img.shields.io/badge/-AI-8B5CF6?style=flat-square) ![LLM](https://img.shields.io/badge/-LLM-8B5CF6?style=flat-square) ![SaaS](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![HR Tech](https://img.shields.io/badge/-HR%20Tech-22C55E?style=flat-square) ![Automation](https://img.shields.io/badge/-Automation-F59E0B?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[Meet Gabbi](https://meetgabbi.com/)**
+
+Fully deployed AI support agent handling customer queries end-to-end using LLMs — with escalation logic, context memory, and CRM integration.
+
+![AI](https://img.shields.io/badge/-AI-8B5CF6?style=flat-square) ![AI Agent](https://img.shields.io/badge/-AI%20Agent-8B5CF6?style=flat-square) ![LLM](https://img.shields.io/badge/-LLM-8B5CF6?style=flat-square) ![Customer Support](https://img.shields.io/badge/-Customer%20Support-22C55E?style=flat-square) ![SaaS](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ⚙️ GoHighLevel Marketplace
+
+> 3 apps published in the official GHL marketplace, used by agencies across the US.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**[All the Apps](https://marketplace.gohighlevel.com/integration/683ed93a8ded1a4103d118a2/versions/69df9ea08b8f261b3e2c777a)**
+
+Native GHL integration extending platform functionality for GHL agencies and sub-accounts.
+
+![GoHighLevel](https://img.shields.io/badge/-GoHighLevel-6366F1?style=flat-square) ![CRM](https://img.shields.io/badge/-CRM-0A84FF?style=flat-square) ![SaaS](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![Automation](https://img.shields.io/badge/-Automation-F59E0B?style=flat-square)
+
+</td>
+<td width="33%" valign="top">
+
+**[Calendar For CRM](https://marketplace.gohighlevel.com/integration/68516a4c857ac41f0ac67980/versions/68516a4c857ac41f0ac67980)**
+
+Scheduling and calendar management tool built natively for GHL CRM workflows.
+
+![GoHighLevel](https://img.shields.io/badge/-GoHighLevel-6366F1?style=flat-square) ![Calendar](https://img.shields.io/badge/-Calendar-0A84FF?style=flat-square) ![CRM](https://img.shields.io/badge/-CRM-0A84FF?style=flat-square) ![Scheduling](https://img.shields.io/badge/-Scheduling-F59E0B?style=flat-square)
+
+</td>
+<td width="33%" valign="top">
+
+**[Dashboard Tools](https://marketplace.gohighlevel.com/integration/685165a6af8a69551edaefdc/versions/685165a6af8a69551edaefdc)**
+
+Extends GHL with custom dashboards and reporting views for agencies managing multiple sub-accounts.
+
+![GoHighLevel](https://img.shields.io/badge/-GoHighLevel-6366F1?style=flat-square) ![Dashboard](https://img.shields.io/badge/-Dashboard-0A84FF?style=flat-square) ![Analytics](https://img.shields.io/badge/-Analytics-22C55E?style=flat-square) ![Reporting](https://img.shields.io/badge/-Reporting-F59E0B?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ### 🚗 Fleet, Mobility & Transport
 
 <table>
@@ -303,44 +342,6 @@ Android companion for the Tourdec eBike fleet platform — ride management, GPS 
 
 <br/>
 
-### ⚙️ GoHighLevel Marketplace
-
-> 3 apps published in the official GHL marketplace, used by agencies across the US.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**[All the Apps](https://marketplace.gohighlevel.com/integration/683ed93a8ded1a4103d118a2/versions/69df9ea08b8f261b3e2c777a)**
-
-Native GHL integration extending platform functionality for GHL agencies and sub-accounts.
-
-![GoHighLevel](https://img.shields.io/badge/-GoHighLevel-6366F1?style=flat-square) ![CRM](https://img.shields.io/badge/-CRM-0A84FF?style=flat-square) ![SaaS](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![Automation](https://img.shields.io/badge/-Automation-F59E0B?style=flat-square)
-
-</td>
-<td width="33%" valign="top">
-
-**[Calendar For CRM](https://marketplace.gohighlevel.com/integration/68516a4c857ac41f0ac67980/versions/68516a4c857ac41f0ac67980)**
-
-Scheduling and calendar management tool built natively for GHL CRM workflows.
-
-![GoHighLevel](https://img.shields.io/badge/-GoHighLevel-6366F1?style=flat-square) ![Calendar](https://img.shields.io/badge/-Calendar-0A84FF?style=flat-square) ![CRM](https://img.shields.io/badge/-CRM-0A84FF?style=flat-square) ![Scheduling](https://img.shields.io/badge/-Scheduling-F59E0B?style=flat-square)
-
-</td>
-<td width="33%" valign="top">
-
-**[Dashboard Tools](https://marketplace.gohighlevel.com/integration/685165a6af8a69551edaefdc/versions/685165a6af8a69551edaefdc)**
-
-Extends GHL with custom dashboards and reporting views for agencies managing multiple sub-accounts.
-
-![GoHighLevel](https://img.shields.io/badge/-GoHighLevel-6366F1?style=flat-square) ![Dashboard](https://img.shields.io/badge/-Dashboard-0A84FF?style=flat-square) ![Analytics](https://img.shields.io/badge/-Analytics-22C55E?style=flat-square) ![Reporting](https://img.shields.io/badge/-Reporting-F59E0B?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ### 🛒 Ecommerce & Business Platforms
 
 <table>
@@ -405,14 +406,21 @@ Fully custom ecommerce platform for a furniture and home decor brand — product
 
 | Area | What that means in production |
 | :--- | :--- |
-| **Digital Wallet** | Apple Wallet (.pkpass) & Google Wallet passes — loyalty, membership, and push campaigns |
-| **Offline-First POS** | Desktop point-of-sale with cloud sync, inventory, billing, and reporting |
-| **Business Platforms** | Ecommerce, CRM/ERP, fleet, and booking systems with reporting dashboards |
-| **Integrations** | GoHighLevel, Zapier, Make, Pabbly, ManyChat, and payment gateways |
-| **IoT & Automation** | Smart breakers and switches over MQTT, WebSockets, and REST |
-| **Mobile** | React Native apps shipped to the App Store and Google Play |
+| **Apple & Google Wallet** | .pkpass generation and signing, pass push updates, white-label loyalty and membership platforms |
+| **Full Stack (MERN)** | React and React Native on Node.js, Express and MongoDB — REST, GraphQL and WebSocket APIs, JWT/OAuth |
+| **AI & Multi-Agent Systems** | LLM integrations, agentic workflows, context memory, escalation logic, and CRM hand-off |
+| **GoHighLevel** | Marketplace apps, custom CRM integrations, and automation across Zapier, Make, Pabbly and ManyChat |
+| **Offline-First POS** | Desktop point-of-sale with cloud sync, inventory, billing and reporting |
+| **IoT & Devices** | Smart breakers and switches over MQTT, WebSockets and REST |
 
 Systems that work offline and online, built for production and complex integrations — with an Upwork and Fiverr track record behind them.
+
+![Apple Wallet](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square&logo=apple&logoColor=white)
+![Google Wallet](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square&logo=googlepay&logoColor=white)
+![MERN](https://img.shields.io/badge/-MERN%20Stack-0A84FF?style=flat-square)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-8B5CF6?style=flat-square)
+![LLM](https://img.shields.io/badge/-LLM%20Integration-8B5CF6?style=flat-square)
+![GoHighLevel](https://img.shields.io/badge/-GoHighLevel-6366F1?style=flat-square)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -470,10 +478,10 @@ Systems that work offline and online, built for production and complex integrati
 
 ## 🎯 **Current Focus**
 
-- 📈 Advanced POS ecosystem with AI-powered analytics
-- 🤖 AI-powered automation for trading & business optimization
-- 🏠 Smart hardware integrations & IoT platforms
-- 📱 Cross-platform mobile solutions (React Native)
+- 🤖 Multi-agent AI systems & LLM automations for real business workflows
+- 💳 Expanding the Apple/Google Wallet product line into new markets
+- ⚙️ More GoHighLevel marketplace apps & deeper CRM automation
+- 📱 Cross-platform mobile delivery with React Native
 
 ---
 
