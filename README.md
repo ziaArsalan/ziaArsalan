@@ -37,9 +37,9 @@ I'm a software engineer, and founder at [Devtronics](https://devtronics.co).
 
 ---
 
-<p align="center">
-  <img src="https://gifdb.com/images/high/coding-boy-animation-7yt6dscj60ukjpeg.gif" width="400" alt="coding-boy-animation" />
-</p>
+<!-- Banner GIF removed: the gifdb.com asset was deleted upstream (404).
+     To restore, commit a GIF to this repo (e.g. assets/coding.gif) and use:
+     <p align="center"><img src="assets/coding.gif" width="400" alt="Animated coding illustration" /></p> -->
 
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
@@ -69,7 +69,7 @@ I love **solving complex problems**, building **innovative solutions**, and work
 [![Reasons needing a website](https://ytcards.demolab.com/?id=YCct2HPoTMk&title=Reasons+needing+a+website&lang=en&timestamp=1774106663&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=51 'Reasons needing a website')](https://www.youtube.com/shorts/YCct2HPoTMk)
 [![AI Vehicle Detection](https://ytcards.demolab.com/?id=43Kybncl2x8&title=AI+Vehicle+Detection.&lang=en&timestamp=1775136630&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1757 'AI Vehicle Detection')](https://www.youtube.com/watch?v=43Kybncl2x8)
 [![POS System](https://ytcards.demolab.com/?id=oYuAMFIzpds&title=POS+System&lang=en&timestamp=1774900800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1037 'POS System')](https://www.youtube.com/watch?v=oYuAMFIzpds)
-[![Aplpe Wallet Pass (.pkpass)](https://ytcards.demolab.com/?id=ToZWfw3rNro&title=Apple+Wallet+Pass+%28.pkpass%29&lang=en&timestamp=1774106663&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=51 'Aplpe Wallet Pass (.pkpass)')](https://www.youtube.com/shorts/ToZWfw3rNro)
+[![Apple Wallet Pass (.pkpass)](https://ytcards.demolab.com/?id=ToZWfw3rNro&title=Apple+Wallet+Pass+%28.pkpass%29&lang=en&timestamp=1774106663&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=51 'Apple Wallet Pass (.pkpass)')](https://www.youtube.com/shorts/ToZWfw3rNro)
 [![HTML Editor](https://ytcards.demolab.com/?id=SyrcYI4wOmQ&title=HTML+Editor&lang=en&timestamp=1774106663&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=51 'HTML Editor')](https://www.youtube.com/shorts/SyrcYI4wOmQ)
 [![Video](https://ytcards.demolab.com/?id=RXMU7FyNRpw&title=New+Video&lang=en&timestamp=1774106663&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0 'New Video')](https://www.youtube.com/watch?v=RXMU7FyNRpw)
 
@@ -79,7 +79,7 @@ I love **solving complex problems**, building **innovative solutions**, and work
 
 ## 💼 **Portfolio Projects**
 
-> **28 production apps** shipped across 10+ countries — AI agents, digital wallet SaaS, fleet platforms, mobile apps, and more.
+> **27 production apps** shipped across 10+ countries — AI agents, digital wallet SaaS, fleet platforms, mobile apps, and more.
 
 ---
 
@@ -93,7 +93,7 @@ I love **solving complex problems**, building **innovative solutions**, and work
 
 AI-powered recruitment SaaS that uses LLMs to automate candidate screening, scoring, and shortlisting.
 
-![](https://img.shields.io/badge/-AI-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/-LLM-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-HR%20Tech-22C55E?style=flat-square) ![](https://img.shields.io/badge/-Automation-F59E0B?style=flat-square)
+![AI](https://img.shields.io/badge/-AI-8B5CF6?style=flat-square) ![LLM](https://img.shields.io/badge/-LLM-8B5CF6?style=flat-square) ![SaaS](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![HR Tech](https://img.shields.io/badge/-HR%20Tech-22C55E?style=flat-square) ![Automation](https://img.shields.io/badge/-Automation-F59E0B?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -102,7 +102,7 @@ AI-powered recruitment SaaS that uses LLMs to automate candidate screening, scor
 
 Fully deployed AI support agent handling customer queries end-to-end using LLMs — with escalation logic, context memory, and CRM integration.
 
-![](https://img.shields.io/badge/-AI-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/-AI%20Agent-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/-LLM-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/-Customer%20Support-22C55E?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square)
+![AI](https://img.shields.io/badge/-AI-8B5CF6?style=flat-square) ![AI Agent](https://img.shields.io/badge/-AI%20Agent-8B5CF6?style=flat-square) ![LLM](https://img.shields.io/badge/-LLM-8B5CF6?style=flat-square) ![Customer Support](https://img.shields.io/badge/-Customer%20Support-22C55E?style=flat-square) ![SaaS](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square)
 
 </td>
 </tr>
@@ -120,7 +120,7 @@ Fully deployed AI support agent handling customer queries end-to-end using LLMs 
 
 White-label loyalty platform where businesses issue digital membership cards via Apple/Google Wallet — no app download needed. Live across 3 countries.
 
-![](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-White%20Label-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Loyalty-22C55E?style=flat-square)
+![Apple Wallet](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![Google Wallet](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square) ![SaaS](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![White Label](https://img.shields.io/badge/-White%20Label-F59E0B?style=flat-square) ![Loyalty](https://img.shields.io/badge/-Loyalty-22C55E?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -129,7 +129,7 @@ White-label loyalty platform where businesses issue digital membership cards via
 
 White-label Apple/Google Wallet loyalty platform for the Saudi market with full Arabic/English bilingual support.
 
-![](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Arabic-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Loyalty-22C55E?style=flat-square)
+![Apple Wallet](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![Google Wallet](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square) ![SaaS](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![Arabic](https://img.shields.io/badge/-Arabic-F59E0B?style=flat-square) ![Loyalty](https://img.shields.io/badge/-Loyalty-22C55E?style=flat-square)
 
 </td>
 </tr>
@@ -140,7 +140,7 @@ White-label Apple/Google Wallet loyalty platform for the Saudi market with full 
 
 Apple/Google Wallet loyalty and membership platform deployed in Saudi Arabia — digital card issuance, loyalty workflows, and Arabic-first UX.
 
-![](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square) ![](https://img.shields.io/badge/-Membership-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Arabic-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Loyalty-22C55E?style=flat-square)
+![Apple Wallet](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![Google Wallet](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square) ![Membership](https://img.shields.io/badge/-Membership-F59E0B?style=flat-square) ![Arabic](https://img.shields.io/badge/-Arabic-F59E0B?style=flat-square) ![Loyalty](https://img.shields.io/badge/-Loyalty-22C55E?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -149,18 +149,20 @@ Apple/Google Wallet loyalty and membership platform deployed in Saudi Arabia —
 
 Digital wallet platform letting businesses manage loyalty passes, digital memberships, and wallet-based transactions for their customers.
 
-![](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Payments-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Loyalty-22C55E?style=flat-square)
+![Apple Wallet](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![Google Wallet](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square) ![SaaS](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![Payments](https://img.shields.io/badge/-Payments-0A84FF?style=flat-square) ![Loyalty](https://img.shields.io/badge/-Loyalty-22C55E?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[WalletCampaigns](https://walletcampaigns.com/)**
+<!-- Link removed: walletcampaigns.com DNS is not resolving (authoritative NS return REFUSED;
+     registration valid to 2027-01-14). Restore the link once the DNSimple zone is reconnected. -->
+**WalletCampaigns**
 
 White-label SaaS that lets businesses issue Apple/Google Wallet passes and run targeted push notification campaigns — fully rebrandable for resellers.
 
-![](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square) ![](https://img.shields.io/badge/-White%20Label-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Push%20Notifications-EF4444?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square)
+![Apple Wallet](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![Google Wallet](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square) ![White Label](https://img.shields.io/badge/-White%20Label-F59E0B?style=flat-square) ![Push Notifications](https://img.shields.io/badge/-Push%20Notifications-EF4444?style=flat-square) ![SaaS](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -169,7 +171,7 @@ White-label SaaS that lets businesses issue Apple/Google Wallet passes and run t
 
 Advanced loyalty platform offering modular loyalty programs, Apple/Google Wallet pass issuance, and tailored customer experience solutions.
 
-![](https://img.shields.io/badge/-Loyalty-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Rewards-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Arabic-F59E0B?style=flat-square)
+![Loyalty](https://img.shields.io/badge/-Loyalty-1C8A3A?style=flat-square) ![Apple Wallet](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![SaaS](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![Rewards](https://img.shields.io/badge/-Rewards-F59E0B?style=flat-square) ![Arabic](https://img.shields.io/badge/-Arabic-F59E0B?style=flat-square)
 
 </td>
 </tr>
@@ -180,7 +182,7 @@ Advanced loyalty platform offering modular loyalty programs, Apple/Google Wallet
 
 Restaurant SaaS combining digital menus, Apple/Google Wallet loyalty passes, online ordering, and automated marketing — all in one platform.
 
-![](https://img.shields.io/badge/-Loyalty-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-Restaurant-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Digital%20Menu-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square)
+![Loyalty](https://img.shields.io/badge/-Loyalty-1C8A3A?style=flat-square) ![Restaurant](https://img.shields.io/badge/-Restaurant-F59E0B?style=flat-square) ![Digital Menu](https://img.shields.io/badge/-Digital%20Menu-0A84FF?style=flat-square) ![Apple Wallet](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![SaaS](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -189,7 +191,7 @@ Restaurant SaaS combining digital menus, Apple/Google Wallet loyalty passes, onl
 
 SaaS to design, launch, and manage Apple/Google Wallet passes with scheduled, location-based, and automated push notifications.
 
-![](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square) ![](https://img.shields.io/badge/-Push%20Notifications-EF4444?style=flat-square) ![](https://img.shields.io/badge/-Location--based-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square)
+![Apple Wallet](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![Google Wallet](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square) ![Push Notifications](https://img.shields.io/badge/-Push%20Notifications-EF4444?style=flat-square) ![Location-based](https://img.shields.io/badge/-Location--based-8B5CF6?style=flat-square) ![SaaS](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square)
 
 </td>
 </tr>
@@ -200,7 +202,7 @@ SaaS to design, launch, and manage Apple/Google Wallet passes with scheduled, lo
 
 Loyalty SaaS that lets businesses run digital stamp and rewards programs through Apple/Google Wallet passes — customers stay enrolled without installing an app.
 
-![](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Rewards-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Loyalty-22C55E?style=flat-square)
+![Apple Wallet](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![Google Wallet](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square) ![SaaS](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![Rewards](https://img.shields.io/badge/-Rewards-F59E0B?style=flat-square) ![Loyalty](https://img.shields.io/badge/-Loyalty-22C55E?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -221,7 +223,7 @@ Loyalty SaaS that lets businesses run digital stamp and rewards programs through
 
 Full fleet management SaaS for Amazon Delivery Service Partners — driver dispatch, wave scheduling, real-time scorecards, compliance tracking, and team comms.
 
-![](https://img.shields.io/badge/-Amazon%20DSP-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Fleet%20Management-EF4444?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Dispatch-64748B?style=flat-square) ![](https://img.shields.io/badge/-Logistics-64748B?style=flat-square)
+![Amazon DSP](https://img.shields.io/badge/-Amazon%20DSP-F59E0B?style=flat-square) ![Fleet Management](https://img.shields.io/badge/-Fleet%20Management-EF4444?style=flat-square) ![SaaS](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![Dispatch](https://img.shields.io/badge/-Dispatch-64748B?style=flat-square) ![Logistics](https://img.shields.io/badge/-Logistics-64748B?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -230,7 +232,7 @@ Full fleet management SaaS for Amazon Delivery Service Partners — driver dispa
 
 Live eBike fleet management system with real-time GPS tracking, booking management, and maintenance scheduling — deployed for a fleet operator.
 
-![](https://img.shields.io/badge/-eBike-22C55E?style=flat-square) ![](https://img.shields.io/badge/-IoT-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-GPS%20Tracking-EF4444?style=flat-square) ![](https://img.shields.io/badge/-Fleet-64748B?style=flat-square) ![](https://img.shields.io/badge/-Rental-0A84FF?style=flat-square)
+![eBike](https://img.shields.io/badge/-eBike-22C55E?style=flat-square) ![IoT](https://img.shields.io/badge/-IoT-F59E0B?style=flat-square) ![GPS Tracking](https://img.shields.io/badge/-GPS%20Tracking-EF4444?style=flat-square) ![Fleet](https://img.shields.io/badge/-Fleet-64748B?style=flat-square) ![Rental](https://img.shields.io/badge/-Rental-0A84FF?style=flat-square)
 
 </td>
 </tr>
@@ -241,7 +243,7 @@ Live eBike fleet management system with real-time GPS tracking, booking manageme
 
 Car rental marketplace live across Dubai, Abu Dhabi, and Sharjah — multi-vendor listings, price comparison, booking engine, and transparent rental terms.
 
-![](https://img.shields.io/badge/-Car%20Rental-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Marketplace-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/-UAE-EF4444?style=flat-square) ![](https://img.shields.io/badge/-Multi--vendor-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Booking-22C55E?style=flat-square)
+![Car Rental](https://img.shields.io/badge/-Car%20Rental-0A84FF?style=flat-square) ![Marketplace](https://img.shields.io/badge/-Marketplace-8B5CF6?style=flat-square) ![UAE](https://img.shields.io/badge/-UAE-EF4444?style=flat-square) ![Multi-vendor](https://img.shields.io/badge/-Multi--vendor-F59E0B?style=flat-square) ![Booking](https://img.shields.io/badge/-Booking-22C55E?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -250,7 +252,7 @@ Car rental marketplace live across Dubai, Abu Dhabi, and Sharjah — multi-vendo
 
 Car rental platforms deployed across 3 countries — booking engines, payment integrations, fleet management dashboards, and localised UX.
 
-![](https://img.shields.io/badge/-Car%20Rental-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Multi--country-22C55E?style=flat-square) ![](https://img.shields.io/badge/-Booking-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/-Fleet-64748B?style=flat-square) ![](https://img.shields.io/badge/-Payments-EF4444?style=flat-square)
+![Car Rental](https://img.shields.io/badge/-Car%20Rental-0A84FF?style=flat-square) ![Multi-country](https://img.shields.io/badge/-Multi--country-22C55E?style=flat-square) ![Booking](https://img.shields.io/badge/-Booking-8B5CF6?style=flat-square) ![Fleet](https://img.shields.io/badge/-Fleet-64748B?style=flat-square) ![Payments](https://img.shields.io/badge/-Payments-EF4444?style=flat-square)
 
 </td>
 </tr>
@@ -268,7 +270,7 @@ Car rental platforms deployed across 3 countries — booking engines, payment in
 
 Mobile interface for Amazon DSP drivers — check-in, incident reporting with photos, schedule viewing, and team messaging. Live on US App Store.
 
-![](https://img.shields.io/badge/-iOS-007AFF?style=flat-square) ![](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square) ![](https://img.shields.io/badge/-Amazon%20DSP-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-App%20Store-0A84FF?style=flat-square)
+![iOS](https://img.shields.io/badge/-iOS-007AFF?style=flat-square) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square) ![Amazon DSP](https://img.shields.io/badge/-Amazon%20DSP-F59E0B?style=flat-square) ![App Store](https://img.shields.io/badge/-App%20Store-0A84FF?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -277,7 +279,7 @@ Mobile interface for Amazon DSP drivers — check-in, incident reporting with ph
 
 Browse verified rental providers, compare prices, and book cars across Dubai and the UAE. Live on UAE App Store.
 
-![](https://img.shields.io/badge/-iOS-007AFF?style=flat-square) ![](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square) ![](https://img.shields.io/badge/-UAE-EF4444?style=flat-square) ![](https://img.shields.io/badge/-App%20Store-0A84FF?style=flat-square)
+![iOS](https://img.shields.io/badge/-iOS-007AFF?style=flat-square) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square) ![UAE](https://img.shields.io/badge/-UAE-EF4444?style=flat-square) ![App Store](https://img.shields.io/badge/-App%20Store-0A84FF?style=flat-square)
 
 </td>
 </tr>
@@ -288,7 +290,7 @@ Browse verified rental providers, compare prices, and book cars across Dubai and
 
 iPhone companion for the Tourdec eBike fleet platform — ride management, GPS tracking, and operator tools. Live on App Store.
 
-![](https://img.shields.io/badge/-iOS-007AFF?style=flat-square) ![](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square) ![](https://img.shields.io/badge/-eBike-22C55E?style=flat-square) ![](https://img.shields.io/badge/-Fleet-64748B?style=flat-square)
+![iOS](https://img.shields.io/badge/-iOS-007AFF?style=flat-square) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square) ![eBike](https://img.shields.io/badge/-eBike-22C55E?style=flat-square) ![Fleet](https://img.shields.io/badge/-Fleet-64748B?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -297,7 +299,7 @@ iPhone companion for the Tourdec eBike fleet platform — ride management, GPS t
 
 Android companion for the Tourdec eBike fleet platform — ride management, GPS tracking, and operator controls. Live on Google Play.
 
-![](https://img.shields.io/badge/-Android-3DDC84?style=flat-square) ![](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square) ![](https://img.shields.io/badge/-eBike-22C55E?style=flat-square) ![](https://img.shields.io/badge/-Google%20Play-3DDC84?style=flat-square)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square) ![eBike](https://img.shields.io/badge/-eBike-22C55E?style=flat-square) ![Google Play](https://img.shields.io/badge/-Google%20Play-3DDC84?style=flat-square)
 
 </td>
 </tr>
@@ -317,7 +319,7 @@ Android companion for the Tourdec eBike fleet platform — ride management, GPS 
 
 Native GHL integration extending platform functionality for GHL agencies and sub-accounts.
 
-![](https://img.shields.io/badge/-GoHighLevel-6366F1?style=flat-square) ![](https://img.shields.io/badge/-CRM-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Automation-F59E0B?style=flat-square)
+![GoHighLevel](https://img.shields.io/badge/-GoHighLevel-6366F1?style=flat-square) ![CRM](https://img.shields.io/badge/-CRM-0A84FF?style=flat-square) ![SaaS](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![Automation](https://img.shields.io/badge/-Automation-F59E0B?style=flat-square)
 
 </td>
 <td width="33%" valign="top">
@@ -326,7 +328,7 @@ Native GHL integration extending platform functionality for GHL agencies and sub
 
 Scheduling and calendar management tool built natively for GHL CRM workflows.
 
-![](https://img.shields.io/badge/-GoHighLevel-6366F1?style=flat-square) ![](https://img.shields.io/badge/-Calendar-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-CRM-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Scheduling-F59E0B?style=flat-square)
+![GoHighLevel](https://img.shields.io/badge/-GoHighLevel-6366F1?style=flat-square) ![Calendar](https://img.shields.io/badge/-Calendar-0A84FF?style=flat-square) ![CRM](https://img.shields.io/badge/-CRM-0A84FF?style=flat-square) ![Scheduling](https://img.shields.io/badge/-Scheduling-F59E0B?style=flat-square)
 
 </td>
 <td width="33%" valign="top">
@@ -335,7 +337,7 @@ Scheduling and calendar management tool built natively for GHL CRM workflows.
 
 Extends GHL with custom dashboards and reporting views for agencies managing multiple sub-accounts.
 
-![](https://img.shields.io/badge/-GoHighLevel-6366F1?style=flat-square) ![](https://img.shields.io/badge/-Dashboard-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Analytics-22C55E?style=flat-square) ![](https://img.shields.io/badge/-Reporting-F59E0B?style=flat-square)
+![GoHighLevel](https://img.shields.io/badge/-GoHighLevel-6366F1?style=flat-square) ![Dashboard](https://img.shields.io/badge/-Dashboard-0A84FF?style=flat-square) ![Analytics](https://img.shields.io/badge/-Analytics-22C55E?style=flat-square) ![Reporting](https://img.shields.io/badge/-Reporting-F59E0B?style=flat-square)
 
 </td>
 </tr>
@@ -353,27 +355,29 @@ Extends GHL with custom dashboards and reporting views for agencies managing mul
 
 Legal-tech SaaS automating US LLC formation, EIN application, and business bank account setup — serving Pakistani and international founders online.
 
-![](https://img.shields.io/badge/-Legal%20Tech-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-USA-EF4444?style=flat-square) ![](https://img.shields.io/badge/-Fintech-22C55E?style=flat-square) ![](https://img.shields.io/badge/-LLC%20Formation-64748B?style=flat-square)
+![Legal Tech](https://img.shields.io/badge/-Legal%20Tech-8B5CF6?style=flat-square) ![SaaS](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![USA](https://img.shields.io/badge/-USA-EF4444?style=flat-square) ![Fintech](https://img.shields.io/badge/-Fintech-22C55E?style=flat-square) ![LLC Formation](https://img.shields.io/badge/-LLC%20Formation-64748B?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-**[FlowPOS](https://pos.devtronics.co/)**
+<!-- Link removed: pos.devtronics.co returns NXDOMAIN (root devtronics.co is fine —
+     only the `pos` subdomain record is missing). Restore the link once the DNS record is added. -->
+**FlowPOS**
 
 Cross-platform desktop POS app built with Electron.js — sales processing, inventory management, and customer tracking that works offline.
 
-![](https://img.shields.io/badge/-Electron.js-47848F?style=flat-square) ![](https://img.shields.io/badge/-POS-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Offline%20First-22C55E?style=flat-square) ![](https://img.shields.io/badge/-Retail-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Desktop%20App-64748B?style=flat-square)
+![Electron.js](https://img.shields.io/badge/-Electron.js-47848F?style=flat-square) ![POS](https://img.shields.io/badge/-POS-0A84FF?style=flat-square) ![Offline First](https://img.shields.io/badge/-Offline%20First-22C55E?style=flat-square) ![Retail](https://img.shields.io/badge/-Retail-F59E0B?style=flat-square) ![Desktop App](https://img.shields.io/badge/-Desktop%20App-64748B?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[LCT Auto](https://lctautollc.com/)** &nbsp;🇺🇸
+**[LCT Auto](https://www.lctautollc.com/)** &nbsp;🇺🇸
 
 Car dealership web platform for a Texas-based dealer — vehicle inventory, financing info, and test drive scheduling.
 
-![](https://img.shields.io/badge/-Automotive-64748B?style=flat-square) ![](https://img.shields.io/badge/-USA-EF4444?style=flat-square) ![](https://img.shields.io/badge/-Inventory-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Ecommerce-EC4899?style=flat-square)
+![Automotive](https://img.shields.io/badge/-Automotive-64748B?style=flat-square) ![USA](https://img.shields.io/badge/-USA-EF4444?style=flat-square) ![Inventory](https://img.shields.io/badge/-Inventory-0A84FF?style=flat-square) ![Ecommerce](https://img.shields.io/badge/-Ecommerce-EC4899?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -382,7 +386,7 @@ Car dealership web platform for a Texas-based dealer — vehicle inventory, fina
 
 Custom sportswear ecommerce platform — team uniforms, club merchandise, and custom jersey ordering with product personalisation.
 
-![](https://img.shields.io/badge/-Ecommerce-EC4899?style=flat-square) ![](https://img.shields.io/badge/-Sportswear-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Australia-22C55E?style=flat-square) ![](https://img.shields.io/badge/-Custom%20Merch-8B5CF6?style=flat-square)
+![Ecommerce](https://img.shields.io/badge/-Ecommerce-EC4899?style=flat-square) ![Sportswear](https://img.shields.io/badge/-Sportswear-F59E0B?style=flat-square) ![Australia](https://img.shields.io/badge/-Australia-22C55E?style=flat-square) ![Custom Merch](https://img.shields.io/badge/-Custom%20Merch-8B5CF6?style=flat-square)
 
 </td>
 </tr>
@@ -393,7 +397,7 @@ Custom sportswear ecommerce platform — team uniforms, club merchandise, and cu
 
 Fully custom ecommerce platform for a furniture and home decor brand — product catalogue, collections, and full shop experience.
 
-![](https://img.shields.io/badge/-Ecommerce-EC4899?style=flat-square) ![](https://img.shields.io/badge/-Furniture-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Custom%20Store-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Home%20Decor-8B5CF6?style=flat-square)
+![Ecommerce](https://img.shields.io/badge/-Ecommerce-EC4899?style=flat-square) ![Furniture](https://img.shields.io/badge/-Furniture-F59E0B?style=flat-square) ![Custom Store](https://img.shields.io/badge/-Custom%20Store-0A84FF?style=flat-square) ![Home Decor](https://img.shields.io/badge/-Home%20Decor-8B5CF6?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -461,7 +465,7 @@ Fully custom ecommerce platform for a furniture and home decor brand — product
 ## 📊 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziaArsalan&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=ziaArsalan&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 <!-- <p align="center">
