@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:94B9F9,100:5EE4FF&height=220&section=header&text=AI%20SaaS%20Solutions&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="AI SaaS Solutions" />
+  <img src="assets/header.png" width="100%" alt="AI SaaS Solutions" />
 </p>
 
 <h1 >👋 Hi, I'm Zia Arsalan!</h1>
 
-**`Tech Man`**
+**`Digital Wallet & AI SaaS Engineer`**
 
 I'm a software engineer, and founder at [Devtronics](https://devtronics.co).
 
@@ -434,9 +434,7 @@ Systems that work offline and online, built for production and complex integrati
 ![Electron.js](https://img.shields.io/badge/Electron.js-47848F?style=flat-square&logo=electron&logoColor=white)
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,typescript,javascript,html,css,express,firebase,git,github,vscode&perline=12" alt="Tech stack icons: React, Node.js, MongoDB, TypeScript, JavaScript, HTML, CSS, Express, Firebase, Git, GitHub, VS Code" />
-  </a>
+  <img src="assets/stack-icons.svg" alt="Tech stack icons: React, Node.js, MongoDB, TypeScript, JavaScript, HTML, CSS, Express, Firebase, Git, GitHub, VS Code" />
 </p>
 
 ---
@@ -464,15 +462,6 @@ Systems that work offline and online, built for production and complex integrati
   <br/>
 
 </div>
-
----
-
-## 🏆 **Achievements**
-
-<p align="center">
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=ziaArsalan&theme=radical&no-bg=true" alt="GitHub Trophies" /> -->
-  <img src="https://nirzak-trophies.vercel.app/?username=ziaArsalan&theme=radical&no-bg=true" alt="GitHub Trophies" />
-</p>
 
 ---
 
