@@ -79,7 +79,7 @@ I love **solving complex problems**, building **innovative solutions**, and work
 
 ## 💼 **Portfolio Projects**
 
-> **27 production apps** shipped across 10+ countries — AI agents, digital wallet SaaS, fleet platforms, mobile apps, and more.
+> **28 production apps** shipped across 10+ countries — AI agents, digital wallet SaaS, fleet platforms, mobile apps, and more.
 
 ---
 
@@ -190,6 +190,20 @@ Restaurant SaaS combining digital menus, Apple/Google Wallet loyalty passes, onl
 SaaS to design, launch, and manage Apple/Google Wallet passes with scheduled, location-based, and automated push notifications.
 
 ![](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square) ![](https://img.shields.io/badge/-Push%20Notifications-EF4444?style=flat-square) ![](https://img.shields.io/badge/-Location--based-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[StayLoyal](https://app.stayloyal.net/)**
+
+Loyalty SaaS that lets businesses run digital stamp and rewards programs through Apple/Google Wallet passes — customers stay enrolled without installing an app.
+
+![](https://img.shields.io/badge/-Apple%20Wallet-1C8A3A?style=flat-square) ![](https://img.shields.io/badge/-Google%20Wallet-34A853?style=flat-square) ![](https://img.shields.io/badge/-SaaS-0A84FF?style=flat-square) ![](https://img.shields.io/badge/-Rewards-F59E0B?style=flat-square) ![](https://img.shields.io/badge/-Loyalty-22C55E?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
