@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:94B9F9,100:5EE4FF&height=220&section=header&text=AI%20SaaS%20Solutions&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:94B9F9,100:5EE4FF&height=220&section=header&text=AI%20SaaS%20Solutions&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="AI SaaS Solutions" />
 </p>
 
 <h1 >👋 Hi, I'm Zia Arsalan!</h1>
@@ -459,7 +459,7 @@ Systems that work offline and online, built for production and complex integrati
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziaArsalan&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziaArsalan&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
   
   <br/>
 
